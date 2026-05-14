@@ -1,1 +1,1 @@
-Изменение с GitHup
+Remote change
